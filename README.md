@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codkd" alt="codkd" /></a> </p>
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/ali-mohamed-4872992a0/](https://www.linkedin.com/in/ali-mohamed-4872992a0/)
+- 📝 I regularly write articles on [www.linkedin.com/in/CodeKD](www.linkedin.com/in/CodeKD)
 
 - 📫 How to reach me **Aly.route@gmail.com**
 
